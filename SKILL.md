@@ -24,7 +24,7 @@ trigger_keywords:
   - Google Fonts
   - /font-pairing-skill
 author: bilioveloso
-version: "1.0"
+version: "1.1"
 ---
 
 # Font Pairing Skill
@@ -329,3 +329,5 @@ This skill is part of a four-skill design system. Each skill cross-references th
 | **design-effects-skill** | Animations, morphisms, motion patterns, page recipes | [github.com/bilioveloso/design-effects-skill](https://github.com/bilioveloso/design-effects-skill) |
 | **font-pairing-skill** | Typeface selection, pairing rules, type scale | *This skill* |
 | **icon-system-skill** | Icon library selection, sizing, weight, animated icons | [github.com/bilioveloso/icon-system-skill](https://github.com/bilioveloso/icon-system-skill) |
+
+> **Need pre-built UI components?** [React Bits](https://www.reactbits.dev/get-started/index) has ready-to-use animated and interactive components that pair well with these font stacks. Install only the specific component you need and credit the source when adapting their work.
