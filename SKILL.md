@@ -331,3 +331,91 @@ This skill is part of a four-skill design system. Each skill cross-references th
 | **icon-system-skill** | Icon library selection, sizing, weight, animated icons | [github.com/bilioveloso/icon-system-skill](https://github.com/bilioveloso/icon-system-skill) |
 
 > **Need pre-built UI components?** [React Bits](https://www.reactbits.dev/get-started/index) has ready-to-use animated and interactive components that pair well with these font stacks. Install only the specific component you need and credit the source when adapting their work.
+
+---
+
+## Google Fonts Import Reference
+
+Copy-paste `@import` URLs for the most common pairings. Add to the top of your CSS file or use `<link>` tags in `<head>`. All include `display=swap` for performance.
+
+### Luxury / Editorial
+
+| Pairing | Import |
+|---|---|
+| Playfair Display + Inter | `@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap');` |
+| Cormorant Garamond + Libre Baskerville | `@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Libre+Baskerville:wght@400;700&display=swap');` |
+| Cormorant + Montserrat | `@import url('https://fonts.googleapis.com/css2?family=Cormorant:wght@400;500;600;700&family=Montserrat:wght@300;400;500;600;700&display=swap');` |
+| Bodoni Moda + Jost | `@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:wght@400;500;600;700&family=Jost:wght@300;400;500;600;700&display=swap');` |
+| Lora + Raleway (Wellness) | `@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&family=Raleway:wght@300;400;500;600;700&display=swap');` |
+| Great Vibes + Cormorant Infant (Wedding) | `@import url('https://fonts.googleapis.com/css2?family=Cormorant+Infant:wght@300;400;500;600;700&family=Great+Vibes&display=swap');` |
+
+### Corporate / SaaS / Dashboard
+
+| Pairing | Import |
+|---|---|
+| Inter (all weights) | `@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');` |
+| Plus Jakarta Sans | `@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap');` |
+| Poppins + Open Sans | `@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&family=Poppins:wght@400;500;600;700&display=swap');` |
+| Lexend + Source Sans 3 (Accessibility) | `@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;500;600;700&family=Source+Sans+3:wght@300;400;500;600;700&display=swap');` |
+| IBM Plex Sans (Finance) | `@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;500;600;700&display=swap');` |
+| Figtree + Noto Sans (Healthcare) | `@import url('https://fonts.googleapis.com/css2?family=Figtree:wght@300;400;500;600;700&family=Noto+Sans:wght@300;400;500;700&display=swap');` |
+| Fira Code + Fira Sans (Dashboard/Data) | `@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600;700&family=Fira+Sans:wght@300;400;500;600;700&display=swap');` |
+
+### Tech / Developer / Startup
+
+| Pairing | Import |
+|---|---|
+| Space Grotesk + DM Sans | `@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Space+Grotesk:wght@400;500;600;700&display=swap');` |
+| JetBrains Mono + IBM Plex Sans | `@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&display=swap');` |
+| Outfit + Work Sans | `@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=Work+Sans:wght@300;400;500;600;700&display=swap');` |
+| Syne + Manrope (Fashion Forward) | `@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;600;700&family=Syne:wght@400;500;600;700&display=swap');` |
+| Archivo + Space Grotesk (Portfolio) | `@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@300;400;500;600;700&family=Space+Grotesk:wght@300;400;500;600;700&display=swap');` |
+
+### Gaming / Esports / Bold
+
+| Pairing | Import |
+|---|---|
+| Bebas Neue + Source Sans 3 | `@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Source+Sans+3:wght@300;400;500;600;700&display=swap');` |
+| Russo One + Chakra Petch | `@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@300;400;500;600;700&family=Russo+One&display=swap');` |
+| Orbitron + Exo 2 (Crypto/Web3) | `@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@300;400;500;600;700&family=Orbitron:wght@400;500;600;700&display=swap');` |
+| Barlow Condensed + Barlow (Sports) | `@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;500;600;700&family=Barlow:wght@300;400;500;600;700&display=swap');` |
+| Space Mono (Brutalism) | `@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap');` |
+
+### Editorial / News / Blog
+
+| Pairing | Import |
+|---|---|
+| Newsreader + Roboto | `@import url('https://fonts.googleapis.com/css2?family=Newsreader:wght@400;500;600;700&family=Roboto:wght@300;400;500;700&display=swap');` |
+| Libre Bodoni + Public Sans (Magazine) | `@import url('https://fonts.googleapis.com/css2?family=Libre+Bodoni:wght@400;500;600;700&family=Public+Sans:wght@300;400;500;600;700&display=swap');` |
+| EB Garamond + Lato (Legal/Academic) | `@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500;600;700&family=Lato:wght@300;400;700&display=swap');` |
+| Crimson Pro + Atkinson Hyperlegible (Research) | `@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=Crimson+Pro:wght@400;500;600;700&display=swap');` |
+
+### Playful / Kids / Craft
+
+| Pairing | Import |
+|---|---|
+| Fredoka + Nunito (Playful) | `@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Nunito:wght@300;400;500;600;700&display=swap');` |
+| Baloo 2 + Comic Neue (Kids) | `@import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;500;600;700&family=Comic+Neue:wght@300;400;700&display=swap');` |
+| Amatic SC + Cabin (Indie/Craft) | `@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Cabin:wght@400;500;600;700&display=swap');` |
+| Varela Round + Nunito Sans (Soft) | `@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;500;600;700&family=Varela+Round&display=swap');` |
+
+### Restaurant / Hospitality / Food
+
+| Pairing | Import |
+|---|---|
+| Playfair Display SC + Karla (Restaurant) | `@import url('https://fonts.googleapis.com/css2?family=Karla:wght@300;400;500;600;700&family=Playfair+Display+SC:wght@400;700&display=swap');` |
+| Abril Fatface + Merriweather (Retro) | `@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Merriweather:wght@300;400;700&display=swap');` |
+
+### Accessibility-Critical
+
+| Pairing | Import |
+|---|---|
+| Atkinson Hyperlegible (single) | `@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap');` |
+| Lexend + Source Sans 3 | `@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;500;600;700&family=Source+Sans+3:wght@300;400;500;600;700&display=swap');` |
+
+> **Note:** Fontshare fonts (Clash Display, Cabinet Grotesk, Satoshi) are not on Google Fonts. Download from [fontshare.com](https://www.fontshare.com) and self-host, or use the Fontshare CDN.
+
+```html
+<!-- Fontshare CDN example -->
+<link href="https://api.fontshare.com/v2/css?f[]=clash-display@400,500,600,700&display=swap" rel="stylesheet">
+```
